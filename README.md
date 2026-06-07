@@ -5,7 +5,7 @@
 
 <!-- PROFILE VIEWS + SOCIALS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabarishkumar-dev&label=Profile%20Views&color=70a5fd&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=au820621104070&label=Profile%20Views&color=70a5fd&style=flat-square" alt="profile views"/>
   &nbsp;
   <a href="mailto:sabarishsri03@gmail.com"><img src="https://img.shields.io/badge/Gmail-sabarishsri03%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
@@ -106,10 +106,10 @@ public class SabarishKumar {
 
 <div align="center">
   <a href="https://github.com/sabarishkumar-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabarishkumar-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Sabarish's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=au820621104070&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Sabarish's GitHub Stats"/>
   </a>
   <a href="https://github.com/sabarishkumar-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarishkumar-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=au820621104070&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
   </a>
 </div>
 
