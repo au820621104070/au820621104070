@@ -119,7 +119,7 @@ public class SabarishKumar {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=au820621104070-dev&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=au820621104070&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -128,7 +128,7 @@ public class SabarishKumar {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=au820621104070-dev&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=au820621104070&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -137,7 +137,7 @@ public class SabarishKumar {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sabarishkumar-dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=au820621104070&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -171,9 +171,9 @@ public class SabarishKumar {
 
 | 📁 Project | 🛠️ Stack | ✨ Highlights |
 |---|---|---|
-| [**🔗 Blockchain-Enabled Storage System**](https://github.com/sabarishkumar-dev) | Java · Blockchain · Hashing · MySQL | Final Year Project (Anna University) · **Enhanced data integrity by 35%** using hashing & blockchain audit mechanisms |
-| [**💰 Personal Budget Tracker**](https://github.com/sabarishkumar-dev) | Java · MySQL · JDBC · CRUD | Mini Project · **Reduced manual effort by 40%** through automated expense tracking with full CRUD operations |
-| [**👥 Employee Management System**](https://github.com/sabarishkumar-dev) | Spring Boot · REST API · MySQL | Mini Project · **Replaced Excel-based workflows** with scalable RESTful API backend and database-driven logic |
+| [**🔗 Blockchain-Enabled Storage System**](https://github.com/au820621104070) | Java · Blockchain · Hashing · MySQL | Final Year Project (Anna University) · **Enhanced data integrity by 35%** using hashing & blockchain audit mechanisms |
+| [**💰 Personal Budget Tracker**](https://github.com/au820621104070) | Java · MySQL · JDBC · CRUD | Mini Project · **Reduced manual effort by 40%** through automated expense tracking with full CRUD operations |
+| [**👥 Employee Management System**](https://github.com/au820621104070) | Spring Boot · REST API · MySQL | Mini Project · **Replaced Excel-based workflows** with scalable RESTful API backend and database-driven logic |
 
 </div>
 
