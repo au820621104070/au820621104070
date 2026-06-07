@@ -18,6 +18,7 @@
 </a>
 </p>
   &nbsp;
+<p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20On--Site-38BDAE?style=flat-square&logo=googlemeet&logoColor=white"/>
 </p>
 
