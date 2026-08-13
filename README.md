@@ -37,6 +37,43 @@
     />
   </a>
 </p>
+<!-- PORTFOLIO + SOCIAL LINKS -->
+<p align="center">
+
+  <a href="https://sabarish-portfolio-six.vercel.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+
+  &nbsp;
+
+  <a href="https://www.linkedin.com/in/sabarish-kumar-s-91a178273" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Sabarish%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  &nbsp;
+
+  <a href="https://github.com/au820621104070" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-au820621104070-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+</p>
+
+<!-- OPEN TO WORK -->
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Open%20to-Software%20Engineer%20%7C%20Java%20Full%20Stack-38BDAE?style=flat-square&logo=googlemeet&logoColor=white"
+    alt="Open to Work"
+  />
+</p>
 
 <!-- OPEN TO WORK -->
 <p align="center">
