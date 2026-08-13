@@ -39,7 +39,7 @@
 </p>
 <p align="center">
 
-  <a href="https://sabarish-portfolio-six.vercel.app/" target="_blank">
+  <a href="https://au820621104070.github.io/sabarish-portfolio/" target="_blank">
     <img
       src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"
       alt="Portfolio"
